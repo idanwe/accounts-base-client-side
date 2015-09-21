@@ -51,4 +51,4 @@ $PROJECT_ROOT/node_modules/.bin/uglifyjs $OUTPUT_PATH/$NAME.bundle.js -o $OUTPUT
 cp $OUTPUT_PATH/$NAME.bundle.* $DIST_PATH
 
 # Cleanup
-# rm -rf $BUNDLER_PATH $OUTPUT_PATH
+rm -rf $BUNDLER_PATH $OUTPUT_PATH
