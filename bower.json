@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "main": "./dist/accounts-base-client-side.bundle.min.js",
   "dependencies": {
-    "meteor-client-side": "~0.2.0"
+    "meteor-client-side": "~1.3.4"
   },
   "homepage": "https://github.com/idanwe/accounts-base-client-side",
   "authors": [
